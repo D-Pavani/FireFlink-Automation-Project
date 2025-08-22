@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-22T12:02:09 IST" name="Default suite" finished-at="2025-08-22T12:02:32 IST" duration-ms="23475">
+    <groups>
+      <group name="smokeSuite">
+        <method signature="TestClasForOBJRepoTest.createCampaignTest()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" name="createCampaignTest" class="practise.TestClasForOBJRepoTest"/>
+      </group> <!-- smokeSuite -->
+      <group name="RegressionSuite_">
+        <method signature="TestClasForOBJRepoTest.createCampaignTest()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" name="createCampaignTest" class="practise.TestClasForOBJRepoTest"/>
+      </group> <!-- RegressionSuite_ -->
+    </groups>
+    <test started-at="2025-08-22T12:02:09 IST" name="Default test" finished-at="2025-08-22T12:02:32 IST" duration-ms="23475">
+      <class name="practise.TestClasForOBJRepoTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:09 IST" name="bsConfig" finished-at="2025-08-22T12:02:09 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:09 IST" name="bcConfig" finished-at="2025-08-22T12:02:14 IST" duration-ms="4768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfigLogin()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:14 IST" name="bmConfigLogin" finished-at="2025-08-22T12:02:17 IST" duration-ms="3320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfigLogin -->
+        <test-method signature="createCampaignTest()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:17 IST" name="createCampaignTest" finished-at="2025-08-22T12:02:22 IST" duration-ms="4714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaignTest -->
+        <test-method is-config="true" signature="amConfigLogout()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:22 IST" name="amConfigLogout" finished-at="2025-08-22T12:02:32 IST" duration-ms="10052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfigLogout -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:32 IST" name="acConfig" finished-at="2025-08-22T12:02:32 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:practise.TestClasForOBJRepoTest@7d8704ef]" started-at="2025-08-22T12:02:33 IST" name="asConfig" finished-at="2025-08-22T12:02:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- practise.TestClasForOBJRepoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
