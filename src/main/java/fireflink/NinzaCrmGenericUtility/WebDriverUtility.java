@@ -362,6 +362,8 @@ public class WebDriverUtility
 	}
 	
 	
+	
+	
 	/**
 	 * This method is used to switch to window
 	 * @param driver
@@ -389,6 +391,8 @@ public class WebDriverUtility
 		return des.getAbsolutePath();//return the Screenshot path 
 		
 	}
+	
+	
 	
 
 }
