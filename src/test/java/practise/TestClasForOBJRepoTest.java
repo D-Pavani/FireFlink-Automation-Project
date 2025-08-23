@@ -13,7 +13,7 @@ import fireflink.NinzaCrm.ObjectRepository.NinzaCRMBaseClass;
 import fireflink.NinzaCrmGenericUtility.WebDriverUtility;
 
 
-@Listeners(fireflink.NinzaCrmGenericUtility.Listenerimplementation.class)
+//@Listeners(fireflink.NinzaCrmGenericUtility.Listenerimplementation.class)
 public class TestClasForOBJRepoTest extends NinzaCRMBaseClass{
 
 	@Test(groups={"smokeSuite","RegressionSuite_"})
